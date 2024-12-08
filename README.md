@@ -1,5 +1,7 @@
 # Air Quality Classification
 
+![PCA Image](\assets\pca_visualization.png)
+
 This project involves classifying air quality based on certain features using a multiclass classification approach. The goal is to predict the air quality category (Good, Moderate, Poor, or Hazardous) from given input features such as pollution levels, temperature, humidity, etc. 
 
 ## Dataset
