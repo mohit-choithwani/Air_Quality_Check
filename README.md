@@ -1,4 +1,4 @@
-# Air Quality Classification
+# FreshFlow : Air Quality Classification
 
 ![PCA_Image](/assets/pca_visualization.png)
 
